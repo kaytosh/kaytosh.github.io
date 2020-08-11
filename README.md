@@ -1,3 +1,4 @@
 # kaytosh.github.io
 simple redirect to my main website
-[kajtosz.pl](https://kajtosz.pl)
+[kajt0sz.xyz](https://kajt0sz.xyz)
+
